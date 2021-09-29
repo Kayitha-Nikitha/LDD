@@ -5,7 +5,6 @@
 #include <linux/cdev.h>         //character device
 #include <linux/slab.h>
 
-
 MODULE_LICENSE("GPL");
 MODULE_LICENSE("GPL v2");
 MODULE_LICENSE("Dual BSD/GPL");
